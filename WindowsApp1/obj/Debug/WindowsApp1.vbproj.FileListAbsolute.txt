@@ -1,0 +1,16 @@
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HotBoxV2.Resources.resources
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HotBoxV2.exe
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HotBoxV2.xml
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HotBoxV2.pdb
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HotBoxV2.exe.config
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HotBoxV2.exe.manifest
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HotBoxV2.application
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HotBoxV2.exe
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HotBoxV2.pdb
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\bin\Debug\HotBoxV2.xml
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HotBoxV2.exe.manifest
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HotBoxV2.application
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\HotBoxV2.HotBoxApp.resources
+C:\Users\Kolton\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
